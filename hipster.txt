@@ -1,2 +1,0 @@
-This is a sample file for GIT remote checkin
-Updating the file for checking the functionality of GIT
